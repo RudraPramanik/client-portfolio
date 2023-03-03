@@ -1,7 +1,7 @@
 export const headerData = {
-  name: 'Rudra Pramanik',
+  name: 'Muradul Kabir',
   title: 'Hello! I am',
-  desciption: "Hey I'm Rudra, A tech Explorer & passionate programmer ",
+  desciption: "Hey I'm Muradul Kabir, A tech Explorer & passionate Engineer ",
   image: 'https://ibb.co/MC4Y0RV',
   imagebw: '',
   resumePdf:

@@ -3,7 +3,7 @@ import { HashLink as NavLink } from 'react-router-hash-link';
 import Typed from 'react-typed';
 import { headerData } from '../../../data/headerData';
 import './landing.css';
-import rudra from '../../../assets/rudra.png';
+import rudra from '../../../assets/rudra.jpg';
 
 import { FaFacebook, FaGithub, FaLinkedin, FaTwitter } from 'react-icons/fa';
 import { contactsData } from '../../../data/contactsData';
@@ -84,6 +84,7 @@ function LandingUI({ theme, drawerOpen, classes }) {
               loop
             />
             <p>{headerData.desciption}</p>
+            <p>phone: +880 1779796837</p>
 
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
