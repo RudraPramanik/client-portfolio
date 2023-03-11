@@ -5,5 +5,5 @@ export const headerData = {
   image: 'https://ibb.co/MC4Y0RV',
   imagebw: '',
   resumePdf:
-    'https://mail.google.com/mail/u/0/#inbox/FMfcgzGrcrwqpBjSnrdlvsdjHkxTPcXz?projector=1',
+    'https://drive.google.com/file/d/1ksXwCJ7KYUoIzkJtPrkWSZqe23HirwTH/view?usp=share_link',
 };
